@@ -5,3 +5,5 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:KurriSiva/Training.git
 git push -u origin main
+
+welcome to github
